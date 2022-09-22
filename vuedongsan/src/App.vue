@@ -1,6 +1,13 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" >
-  
+  <div>
+    <h4>잠실 오피스텔</h4>
+    <p>XX 만원</p>
+  </div>
+  <div>
+    <h4>잠실 빌라</h4>
+    <p>XX 만원</p>
+  </div>
 </template>
 
 <script>
