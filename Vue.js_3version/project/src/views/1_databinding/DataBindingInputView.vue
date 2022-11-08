@@ -3,7 +3,7 @@
     <input type="text" v-model="userId"/>
   </div>
 </template>
-<script>
+<script> 
 
 export default{ 
   components:{},
