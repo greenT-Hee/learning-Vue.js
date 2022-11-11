@@ -20,7 +20,7 @@
       </thead>
       <tbody>
         <!-- <tr v-for="{drink, idx} in drinkList" :key="idx"></tr> -->
-        <tr v-for="drink in drinkList" :key="drink.drinkId">
+        <tr  v-for="drink in drinkList" :key="drink.drinkId">
           <td>{{ drink.drinkId }}</td>
           <td>{{ drink.drinkName }}</td>
           <td>{{ drink.price }}</td>
